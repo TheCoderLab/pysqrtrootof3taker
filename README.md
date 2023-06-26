@@ -12,7 +12,7 @@
  2. Compute the square root of 3:
 
  ```python
- import pysqrtof3taker
+ from pysqrtof3taker import pysqrtrootof3taker
 
  # Compute the square root of 3
  print(pysqrtof3taker.compute_square_root_of_3())
